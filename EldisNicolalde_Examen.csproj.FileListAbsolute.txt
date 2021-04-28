@@ -1,0 +1,16 @@
+C:\Users\GABRIEL\source\repos\EldisNicolalde_Examen\EldisNicolalde_Examen\bin\Debug\netstandard2.0\EldisNicolalde_Examen.deps.json
+C:\Users\GABRIEL\source\repos\EldisNicolalde_Examen\EldisNicolalde_Examen\bin\Debug\netstandard2.0\EldisNicolalde_Examen.dll
+C:\Users\GABRIEL\source\repos\EldisNicolalde_Examen\EldisNicolalde_Examen\bin\Debug\netstandard2.0\ref\EldisNicolalde_Examen.dll
+C:\Users\GABRIEL\source\repos\EldisNicolalde_Examen\EldisNicolalde_Examen\bin\Debug\netstandard2.0\EldisNicolalde_Examen.pdb
+C:\Users\GABRIEL\source\repos\EldisNicolalde_Examen\EldisNicolalde_Examen\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\GABRIEL\source\repos\EldisNicolalde_Examen\EldisNicolalde_Examen\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\GABRIEL\source\repos\EldisNicolalde_Examen\EldisNicolalde_Examen\obj\Debug\netstandard2.0\Registro.xaml.g.cs
+C:\Users\GABRIEL\source\repos\EldisNicolalde_Examen\EldisNicolalde_Examen\obj\Debug\netstandard2.0\Resumen.xaml.g.cs
+C:\Users\GABRIEL\source\repos\EldisNicolalde_Examen\EldisNicolalde_Examen\obj\Debug\netstandard2.0\EldisNicolalde_Examen.AssemblyInfoInputs.cache
+C:\Users\GABRIEL\source\repos\EldisNicolalde_Examen\EldisNicolalde_Examen\obj\Debug\netstandard2.0\EldisNicolalde_Examen.AssemblyInfo.cs
+C:\Users\GABRIEL\source\repos\EldisNicolalde_Examen\EldisNicolalde_Examen\obj\Debug\netstandard2.0\EldisNicolalde_Examen.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL\source\repos\EldisNicolalde_Examen\EldisNicolalde_Examen\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\GABRIEL\source\repos\EldisNicolalde_Examen\EldisNicolalde_Examen\obj\Debug\netstandard2.0\EldisNicolalde_Examen.dll
+C:\Users\GABRIEL\source\repos\EldisNicolalde_Examen\EldisNicolalde_Examen\obj\Debug\netstandard2.0\ref\EldisNicolalde_Examen.dll
+C:\Users\GABRIEL\source\repos\EldisNicolalde_Examen\EldisNicolalde_Examen\obj\Debug\netstandard2.0\EldisNicolalde_Examen.pdb
+C:\Users\GABRIEL\source\repos\EldisNicolalde_Examen\EldisNicolalde_Examen\obj\Debug\netstandard2.0\EldisNicolalde_Examen.csprojAssemblyReference.cache

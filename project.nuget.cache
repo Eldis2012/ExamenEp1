@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "TMLaoQlUFqPuSmOCNYqYPD9M+fGzSj3OGFTJ9aylDFv01G1Tn7uVLqCVUjmWXHREe1MS/WmisKhRIg77ZKeA3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GABRIEL\\source\\repos\\EldisNicolalde_Examen\\EldisNicolalde_Examen\\EldisNicolalde_Examen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GABRIEL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\GABRIEL\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\GABRIEL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
